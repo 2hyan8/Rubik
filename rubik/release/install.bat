@@ -1,0 +1,1 @@
+adb install -t rubik-release.apk
